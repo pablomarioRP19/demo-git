@@ -1,3 +1,4 @@
 # Primer proyecto con git
 
--Primer cambio: Crear un archivo `main.py`
+-Primer Cambio: Crear un archivo `main.py`
+-Segundo Cambio: Añadir linea al archivo `main.py`
